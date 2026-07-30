@@ -1,0 +1,11 @@
+{
+  "description": "Datos simulados para QA Manager. Se cargan automáticamente en localStorage al abrir el prototipo.",
+  "project": "Plataforma Bancaria",
+  "owner": "Diego Andres Gomez Piamba",
+  "source_type": "Datos simulados",
+  "projects": 2,
+  "requirements": 3,
+  "test_cases": 3,
+  "executions": 2,
+  "bugs": 2
+}
